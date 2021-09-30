@@ -1,0 +1,43 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/cool/Desktop/Solidity/contracts/MyContract.sol": {
+      "lastModificationDate": 1633020687832,
+      "contentHash": "68e48a1cece33a825553c247cbfb6cd2",
+      "sourceName": "contracts/MyContract.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ERC20Token",
+        "ERC21Token",
+        "MyContract",
+        "MyContractERC20Helper",
+        "MyToken"
+      ]
+    }
+  }
+}
