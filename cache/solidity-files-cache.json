@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/home/cool/Desktop/Solidity/contracts/MyContract.sol": {
-      "lastModificationDate": 1633021313434,
+    "/home/cool/Desktop/Solidity/contracts/MyContracts.sol": {
+      "lastModificationDate": 1633023428292,
       "contentHash": "3460f3bc9a7c83a335bf1da84892c349",
-      "sourceName": "contracts/MyContract.sol",
+      "sourceName": "contracts/MyContracts.sol",
       "solcConfig": {
         "version": "0.8.0",
         "settings": {
